@@ -1,4 +1,4 @@
-# Dream Cars
+# Cars
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -22,5 +22,5 @@ This is a site where you can coare your self
 
 ### `Live Site Link`
 
- [https://dream-car-1cee1.web.app/](https://dream-car-1cee1.web.app/)
+ [https://buynow-5b556.web.app/](https://buynow-5b556.web.app/)
 
